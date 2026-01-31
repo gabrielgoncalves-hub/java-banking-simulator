@@ -50,5 +50,4 @@ Organização profissional de pacotes seguindo as convenções da linguagem:
 ## 👤 Autor
 
 **Gabriel** - Estudante de ADS na Descomplica.
-* (https://www.linkedin.com/in/gabriel-gon%C3%A7alves-santana/)
-* [Seu Portfólio aqui]
+* [(https://www.linkedin.com/in/gabriel-gon%C3%A7alves-santana/)]
