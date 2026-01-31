@@ -30,7 +30,7 @@ Este projeto foi desenvolvido para consolidar os fundamentos da linguagem **Java
 ### 1. Execução no Console
 Aqui está o fluxo completo da aplicação, desde a validação do saque até o rendimento mensal:
 
-<img width="1653" height="849" alt="image" src="https://github.com/user-attachments/assets/9971a16a-2bcd-4ee4-8c1d-99e2c75ba5b6" />
+<img width="299" height="395" alt="image" src="https://github.com/user-attachments/assets/e1526d4a-6811-4116-92cd-437d64714ba7" />
 
 ### 2. Estrutura do Projeto
 Organização profissional de pacotes seguindo as convenções da linguagem:
@@ -50,5 +50,5 @@ Organização profissional de pacotes seguindo as convenções da linguagem:
 ## 👤 Autor
 
 **Gabriel** - Estudante de ADS na Descomplica.
-* [Seu LinkedIn aqui]
+* (https://www.linkedin.com/in/gabriel-gon%C3%A7alves-santana/)
 * [Seu Portfólio aqui]
